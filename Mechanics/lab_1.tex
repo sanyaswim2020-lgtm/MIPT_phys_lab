@@ -1,0 +1,39 @@
+\documentclass[12pt]{extarticle}
+\usepackage{array}
+\usepackage[T1]{fontenc}
+\usepackage[Russian]{babel}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{spreadtab}
+\usepackage{numprint}
+\usepackage[margin=3cm]{geometry}
+\usepackage{float}
+\usepackage{xfp}
+\usepackage{amsmath}   
+\begin{document}
+\author{Осипов Александр Б06-604}
+\title{Лабораторная работа 1.1.6. Изучение электронного осцилографа}
+\maketitle
+\section{Цель}
+
+Ознакомиться с устройством и органами управления электронного или цифрового осциллографа.
+Научиться измерять амплитуды и частоты произвольных сигналов, изучить основные характеристиик осциллографа.
+
+\section{Оборудование}
+Осцилограф, генераторы электрических сигналов, соединительные кабели.
+
+\section {Теоретическая часть}
+
+\section{Ход работы}
+
+\begin{spreadtab}{{tabular}{c|c|c|c|c|c|c}}
+@ $\nu$ (ЗГ) & @ T, дел. & @ TIME/DIV, мс & @T, с & @ $\nu$, кГц & @ $\delta\nu$, Гц & @ $\nu_{\text{ГЗ}} - \nu$ \\
+1.0283 & 24 & 0.2 & round(b2/5*c2, 2) & round(1/d2, 2) & round((0.02/d2) *e2, 2) & e2 - a2 \\
+18.6*10^(-3) & 26 & 10 & round(b3/5*c3, 2) & round(1/d3, 2) & round((0.02/d3) *e3, 2) & e3 - a3 \\
+5.6744 & 17.5 & 50*10^(-3) & round(b4/5*c4, 2) & round(1/d4, 2) & round((0.02/d4) *e4, 2) & e4 - a4 \\
+184 * 10^(-3) & 27.5 & 1 & round(b5/5*c5, 2) & round(1/d5, 2) & round((0.02/d5) *e5, 2) & e5 - a5 \\
+56.082 & 18 & 5*10^(-3) & round(b6/5*c6, 2) & round(1/d6, 2) & round((0.02/d6) *e6, 2) & e6 - a6 \\
+548.74 & 18 & 0.5*10^(-3) & round(b7/5*c7, 2) & round(1/d7, 2) & round((0.02/d7) *e7, 2) & e7 - a7 \\
+\end{spreadtab}
+
+\end{document}

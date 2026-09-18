@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.10)  18 SEP 2026 09:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.10)  18 SEP 2026 10:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/alex/Code/MIPT_phys_lab/Mechanics/2.tex
-(/home/alex/Code/MIPT_phys_lab/Mechanics/2.tex
+**/home/alex/Code/MIPT_phys_lab/Mechanics/lab_1.tex
+(/home/alex/Code/MIPT_phys_lab/Mechanics/lab_1.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-08-10>
 (/usr/local/texlive/2026/texmf-dist/tex/latex/extsizes/extarticle.cls
@@ -448,15 +448,8 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks29
 LaTeX Info: Redefining \[ on input line 2965.
 LaTeX Info: Redefining \] on input line 2966.
-) (./2.aux
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 5.
- (/usr/local/texlive/2026/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-Package babel Info: 'russian' activates 'russian' shorthands.
-(babel)             Reported on input line 5.
-)
-\openout1 = `2.aux'.
+) (./lab_1.aux)
+\openout1 = `lab_1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
@@ -473,7 +466,13 @@ LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 13.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 13.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
 LaTeX Font Info:    ... okay on input line 13.
+Package babel Info: 'russian' activates 'russian' shorthands.
+(babel)             Reported on input line 13.
 LaTeX Info: Redefining \th on input line 13.
  (/usr/local/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -550,53 +549,5 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package babel Info: Main language set to 'russian'.
-[1
-
-{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
-<assets/lab_1_1_1_scheme.png, id=13, 619.81563pt x 352.31625pt>
-File: assets/lab_1_1_1_scheme.png Graphic file (type png)
-<use assets/lab_1_1_1_scheme.png>
-Package pdftex.def Info: assets/lab_1_1_1_scheme.png  used on input line 49.
-(pdftex.def)             Requested size: 371.89224pt x 211.39137pt.
- [2 <./assets/lab_1_1_1_scheme.png (PNG copy)>]
-Overfull \hbox (10.90366pt too wide) in paragraph at lines 94--95
-[][] 
- []
-
-
-LaTeX Warning: Command \CYRA invalid in math mode on input line 132.
-
-Missing character: There is no À in font cmr8!
-[3]
-<assets/plot_lab_111.png, id=24, 682.2288pt x 426.393pt>
-File: assets/plot_lab_111.png Graphic file (type png)
-<use assets/plot_lab_111.png>
-Package pdftex.def Info: assets/plot_lab_111.png  used on input line 175.
-(pdftex.def)             Requested size: 477.5569pt x 298.47305pt.
-
-Overfull \hbox (33.97842pt too wide) in paragraph at lines 175--176
- [] 
- []
-
-[4 <./assets/plot_lab_111.png>] [5] (./2.aux)
- ***********
-LaTeX2e <2026-06-01>
-L3 programming layer <2026-08-10>
- ***********
- ) 
-Here is how much of TeX's memory you used:
- 6661 strings out of 467099
- 109853 string characters out of 5408265
- 565972 words of memory out of 5000000
- 35896 multiletter control sequences out of 15000+600000
- 639179 words of font info for 62 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 59i,10n,80p,335b,356s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on 2.pdf (5 pages, 260979 bytes).
-PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+/home/alex/Code/MIPT_phys_lab/Mechanics/lab_1.tex:37: Use of \??? doesn't match its definition.
+<arg
