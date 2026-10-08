@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.10)  24 SEP 2026 22:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.10)  5 OCT 2026 00:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/alex/Code/MIPT_phys_lab/Mechanics/1.1.4.tex
-(/home/alex/Code/MIPT_phys_lab/Mechanics/1.1.4.tex
+**/home/alex/Code/MIPT_phys_lab/tmp_saved/1_1_4/1_1_4.tex
+(/home/alex/Code/MIPT_phys_lab/tmp_saved/1_1_4/1_1_4.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-08-10>
 (/usr/local/texlive/2026/texmf-dist/tex/latex/extsizes/extarticle.cls
@@ -450,7 +450,7 @@ LaTeX Info: Redefining \[ on input line 2965.
 LaTeX Info: Redefining \] on input line 2966.
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
-) (./1.1.4.aux
+) (./1_1_4.aux
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 5.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
@@ -458,7 +458,7 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 Package babel Info: 'russian' activates 'russian' shorthands.
 (babel)             Reported on input line 5.
 )
-\openout1 = `1.1.4.aux'.
+\openout1 = `1_1_4.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
@@ -538,7 +538,7 @@ Overfull \hbox (3.14871pt too wide) in paragraph at lines 73--74
 []\T2A/cmr/m/n/12 1. Рас-чет ча-стот ра-зи-лич-ных зна-че-ний для раз-ных вре-мен-ных ин-тер-ва-лов (п.14): 
  []
 
-[2] [3] (./1.1.4.aux)
+[2] [3] (./1_1_4.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-08-10>
@@ -546,14 +546,14 @@ L3 programming layer <2026-08-10>
  ) 
 Here is how much of TeX's memory you used:
  6027 strings out of 467099
- 98897 string characters out of 5408265
+ 98915 string characters out of 5408265
  539927 words of memory out of 5000000
  35300 multiletter control sequences out of 15000+600000
  632824 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,5n,65p,340b,197s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 58i,5n,65p,346b,197s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on 1.1.4.pdf (3 pages, 80068 bytes).
+Output written on 1_1_4.pdf (3 pages, 80280 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream
