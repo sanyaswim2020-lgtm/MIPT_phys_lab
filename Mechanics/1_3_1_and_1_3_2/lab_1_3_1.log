@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.10)  8 OCT 2026 12:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.10)  9 OCT 2026 15:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -450,7 +450,14 @@ LaTeX Info: Redefining \[ on input line 2965.
 LaTeX Info: Redefining \] on input line 2966.
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
-) (./lab_1_3_1.aux)
+) (./lab_1_3_1.aux
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 5.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Package babel Info: 'russian' activates 'russian' shorthands.
+(babel)             Reported on input line 5.
+)
 \openout1 = `lab_1_3_1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -468,13 +475,7 @@ LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 14.
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 14.
- (/usr/local/texlive/2026/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
 LaTeX Font Info:    ... okay on input line 14.
-Package babel Info: 'russian' activates 'russian' shorthands.
-(babel)             Reported on input line 14.
 LaTeX Info: Redefining \th on input line 14.
  (/usr/local/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -533,89 +534,105 @@ Package babel Info: Main language set to 'russian'.
 [1
 
 {/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
-/home/alex/Code/MIPT_phys_lab/Mechanics/1_3_1_and_1_3_2/lab_1_3_1.tex:94: Missing $ inserted.
-<inserted text> 
-                $
-l.94 \end{spreadtab}
-                    
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-/home/alex/Code/MIPT_phys_lab/Mechanics/1_3_1_and_1_3_2/lab_1_3_1.tex:94: Missing $ inserted.
-<inserted text> 
-                $
-l.94 \end{spreadtab}
-                    
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Overfull \hbox (137.15535pt too wide) in paragraph at lines 94--95
+<../assets/1_3_1/lab_1_3_1_wire_increase.png, id=11, 489.2679pt x 346.896pt>
+File: ../assets/1_3_1/lab_1_3_1_wire_increase.png Graphic file (type png)
+<use ../assets/1_3_1/lab_1_3_1_wire_increase.png>
+Package pdftex.def Info: ../assets/1_3_1/lab_1_3_1_wire_increase.png  used on input line 88.
+(pdftex.def)             Requested size: 391.41484pt x 277.51717pt.
+<../assets/1_3_1/lab_1_3_1_wire_decrease.png, id=13, 471.9231pt x 346.896pt>
+File: ../assets/1_3_1/lab_1_3_1_wire_decrease.png Graphic file (type png)
+<use ../assets/1_3_1/lab_1_3_1_wire_decrease.png>
+Package pdftex.def Info: ../assets/1_3_1/lab_1_3_1_wire_decrease.png  used on input line 92.
+(pdftex.def)             Requested size: 377.53899pt x 277.51717pt.
+ [2 <../assets/1_3_1/lab_1_3_1_wire_increase.png>] [3 <../assets/1_3_1/lab_1_3_1_wire_decrease.png>] [4]
+Overfull \hbox (52.5133pt too wide) in paragraph at lines 159--160
 [][] 
  []
 
-
-Overfull \hbox (66.31639pt too wide) in paragraph at lines 107--108
+<../assets/1_3_1/balka_1.png, id=32, 442.2924pt x 346.896pt>
+File: ../assets/1_3_1/balka_1.png Graphic file (type png)
+<use ../assets/1_3_1/balka_1.png>
+Package pdftex.def Info: ../assets/1_3_1/balka_1.png  used on input line 162.
+(pdftex.def)             Requested size: 353.8344pt x 277.51717pt.
+[5 <../assets/1_3_1/balka_1.png>]
+Overfull \hbox (26.90639pt too wide) in paragraph at lines 178--179
 [][] 
  []
 
-
-Overfull \hbox (120.81006pt too wide) in paragraph at lines 121--131
-[]\T2A/cmr/m/n/12 по цен-тру [] 
- []
-
-[2]
-Overfull \hbox (127.66255pt too wide) in paragraph at lines 133--143
-[]\T2A/cmr/m/n/12 30 см сле-ва [] 
- []
-
-
-Overfull \hbox (125.04791pt too wide) in paragraph at lines 144--154
-[]\T2A/cmr/m/n/12 ѕереворот [] 
- []
-
-
-Overfull \hbox (66.31639pt too wide) in paragraph at lines 168--169
+<../assets/1_3_1/balka_2.png, id=37, 442.2924pt x 346.896pt>
+File: ../assets/1_3_1/balka_2.png Graphic file (type png)
+<use ../assets/1_3_1/balka_2.png>
+Package pdftex.def Info: ../assets/1_3_1/balka_2.png  used on input line 181.
+(pdftex.def)             Requested size: 353.8344pt x 277.51717pt.
+[6 <../assets/1_3_1/balka_2.png>]
+Overfull \hbox (26.90639pt too wide) in paragraph at lines 217--218
 [][] 
  []
 
-
-Overfull \hbox (268.79129pt too wide) in paragraph at lines 183--194
-[]\T2A/cmr/m/n/12 Ёксперимент 1 на-груз-ка уве-ли-чи-ва-ет-с€ [] 
+<../assets/1_3_1/balka_3.png, id=42, 427.1157pt x 346.896pt>
+File: ../assets/1_3_1/balka_3.png Graphic file (type png)
+<use ../assets/1_3_1/balka_3.png>
+Package pdftex.def Info: ../assets/1_3_1/balka_3.png  used on input line 220.
+(pdftex.def)             Requested size: 341.69302pt x 277.51717pt.
+[7 <../assets/1_3_1/balka_3.png>]
+Overfull \hbox (66.31639pt too wide) in paragraph at lines 236--237
+[][] 
  []
 
+<../assets/1_3_1/balka_4.png, id=48, 427.1157pt x 346.896pt>
+File: ../assets/1_3_1/balka_4.png Graphic file (type png)
+<use ../assets/1_3_1/balka_4.png>
+Package pdftex.def Info: ../assets/1_3_1/balka_4.png  used on input line 241.
+(pdftex.def)             Requested size: 341.69302pt x 277.51717pt.
+[8 <../assets/1_3_1/balka_4.png>]
+Overfull \hbox (26.90639pt too wide) in paragraph at lines 255--256
+[][] 
+ []
 
-Overfull \hbox (372.88393pt too wide) in paragraph at lines 196--207
+<../assets/1_3_1/balka_5.png, id=53, 427.1157pt x 346.896pt>
+File: ../assets/1_3_1/balka_5.png Graphic file (type png)
+<use ../assets/1_3_1/balka_5.png>
+Package pdftex.def Info: ../assets/1_3_1/balka_5.png  used on input line 258.
+(pdftex.def)             Requested size: 341.69302pt x 277.51717pt.
+[9 <../assets/1_3_1/balka_5.png>]
+Overfull \hbox (66.31639pt too wide) in paragraph at lines 278--279
+[][] 
+ []
+
+<../assets/1_3_1/balka_6.png, id=58, 427.1157pt x 346.896pt>
+File: ../assets/1_3_1/balka_6.png Graphic file (type png)
+<use ../assets/1_3_1/balka_6.png>
+Package pdftex.def Info: ../assets/1_3_1/balka_6.png  used on input line 281.
+(pdftex.def)             Requested size: 341.69302pt x 277.51717pt.
+[10 <../assets/1_3_1/balka_6.png>]
+Overfull \hbox (497.20772pt too wide) in paragraph at lines 297--306
 []\T2A/cmr/m/n/12 Ёксперимент 2 на-груз-ка умень-ша-ет-с€ (чи-тать сни-зу вверх) [] 
  []
 
-[3]
-Overfull \hbox (294.65532pt too wide) in paragraph at lines 212--223
-\T2A/cmr/m/n/12 вверх) [] 
- []
-
-[4] (./lab_1_3_1.aux)
+<../assets/1_3_1/rotation.png, id=63, 406.8801pt x 347.6187pt>
+File: ../assets/1_3_1/rotation.png Graphic file (type png)
+<use ../assets/1_3_1/rotation.png>
+Package pdftex.def Info: ../assets/1_3_1/rotation.png  used on input line 310.
+(pdftex.def)             Requested size: 325.50452pt x 278.09532pt.
+[11 <../assets/1_3_1/rotation.png>] (./lab_1_3_1.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-08-10>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6202 strings out of 467099
- 100534 string characters out of 5408265
- 551192 words of memory out of 5000000
- 35464 multiletter control sequences out of 15000+600000
+ 6208 strings out of 467099
+ 102373 string characters out of 5408265
+ 539937 words of memory out of 5000000
+ 35470 multiletter control sequences out of 15000+600000
  637573 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,6n,65p,359b,327s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on lab_1_3_1.pdf (4 pages, 115454 bytes).
+ 58i,6n,65p,359b,313s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
+Output written on lab_1_3_1.pdf (11 pages, 403959 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 120 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

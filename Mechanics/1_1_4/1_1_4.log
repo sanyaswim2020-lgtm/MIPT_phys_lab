@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.10)  5 OCT 2026 00:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.10)  9 OCT 2026 13:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/alex/Code/MIPT_phys_lab/tmp_saved/1_1_4/1_1_4.tex
-(/home/alex/Code/MIPT_phys_lab/tmp_saved/1_1_4/1_1_4.tex
+**/home/alex/Code/MIPT_phys_lab/Mechanics/1_1_4/1_1_4.tex
+(/home/alex/Code/MIPT_phys_lab/Mechanics/1_1_4/1_1_4.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-08-10>
 (/usr/local/texlive/2026/texmf-dist/tex/latex/extsizes/extarticle.cls
@@ -533,30 +533,36 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package babel Info: Main language set to 'russian'.
 [1
 
-{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
-Overfull \hbox (3.14871pt too wide) in paragraph at lines 73--74
-[]\T2A/cmr/m/n/12 1. Рас-чет ча-стот ра-зи-лич-ных зна-че-ний для раз-ных вре-мен-ных ин-тер-ва-лов (п.14): 
+{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}] [2] [3]
+<../assets/1.1.4/hist.png, id=16, 1003.1076pt x 715.473pt>
+File: ../assets/1.1.4/hist.png Graphic file (type png)
+<use ../assets/1.1.4/hist.png>
+Package pdftex.def Info: ../assets/1.1.4/hist.png  used on input line 154.
+(pdftex.def)             Requested size: 501.55258pt x 357.73563pt.
+
+Overfull \hbox (57.9741pt too wide) in paragraph at lines 154--155
+ [] 
  []
 
-[2] [3] (./1_1_4.aux)
+[4 <../assets/1.1.4/hist.png>] [5] (./1_1_4.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-08-10>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6027 strings out of 467099
- 98915 string characters out of 5408265
+ 6056 strings out of 467099
+ 99353 string characters out of 5408265
  539927 words of memory out of 5000000
- 35300 multiletter control sequences out of 15000+600000
- 632824 words of font info for 47 fonts, out of 8000000 for 9000
+ 35319 multiletter control sequences out of 15000+600000
+ 636755 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,5n,65p,346b,197s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on 1_1_4.pdf (3 pages, 80280 bytes).
+ 58i,6n,65p,346b,197s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
+Output written on 1_1_4.pdf (5 pages, 261811 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 69 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
