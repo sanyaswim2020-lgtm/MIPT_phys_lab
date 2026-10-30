@@ -1,30 +1,89 @@
-\documentclass[12pt]{extarticle}
-\usepackage{array}
-\usepackage{booktabs} % array, booktabs to enhance tables
-\usepackage{spreadtab} % to calculate into the table
-\usepackage[T1]{fontenc} % addings to font
-\usepackage[Russian]{babel}
-\usepackage{numprint} % to create beautiful numbers
-\usepackage[margin=3cm]{geometry}
-\usepackage{float} % to set position of table or figure on a page ([H])
-\usepackage{xfp}
-\usepackage{amsmath}   
+\documentclass[12pt,a4paper]{extarticle}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{amsmath,amssymb,booktabs,float,graphicx}
+\setlength{\parskip}{4mm}
+\allowdisplaybreaks
+\setlength{\emergencystretch}{1em}
+
 \begin{document}
 \author{Осипов Александр Б06-604}
 \title{Лабораторная работа 1.2.5. Исследование вынужденной регулярной прецессии гироскопа}
 \maketitle
-\section{Цель}
 
-Исследовать вынужденную прецессию гироскопа. Установить зависимость скорости вынужденной прецессии 
-гироскопа в зависимости от момента сил, действующих на ось гироскопа.
+\section{Цель}
+Исследовать зависимость скорости прецессии от момента силы.
 
 \section{Оборудование}
-
-Гироскоп в кардановом подвесе, секундомер, набор грузов.
+Гироскоп, секундомер, грузы, крутильный подвес, цилиндр, осциллограф, генератор.
 
 \section{Ход работы}
+\subsection{Прецессия}
+\noindent $l=120$ мм, $g=9.81$ м/с$^2$.
 
+\input{generated/precession_formulas.tex}
 
+\begin{center}
+\input{generated/raw_table.tex}
+\end{center}
 
+\subsubsection{Средние значения и их ошибка:}
+\[
+\sigma_{\overline{\Omega}}=\frac{s_\Omega}{\sqrt{k}}
+\]
+\begin{center}
+\input{generated/averaged_table.tex}
+\end{center}
+
+\subsubsection{МНК:}
+
+a - наклон прямой, L - момент импульса
+
+\input{generated/fit_formulas.tex}
+\input{generated/precession_results.tex}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.85\linewidth]{generated/precession.pdf}
+\end{figure}
+
+\subsection{Момент инерции ротора}
+\noindent $m_c=1.6158$ кг, $D_c=7.8$ см.
+
+Ротор:
+\begin{center}
+\input{generated/rotor_torsion.tex}
+\end{center}
+
+Цилиндр:
+\begin{center}
+\input{generated/cylinder_torsion.tex}
+\end{center}
+
+\input{generated/inertia_formulas.tex}
+\input{generated/inertia_results.tex}
+
+\subsection{Частота вращения:}
+\input{generated/frequency_formulas.tex}
+\input{generated/frequency_results.tex}
+
+\subsection{Момент трения}
+\noindent $r=12.5$ см.
+\[
+\Delta\theta\approx\frac{h}{r},\qquad M_f\approx L\frac{\Delta\theta}{t}
+\]
+\input{generated/friction_formulas.tex}
+
+\begin{center}
+\input{generated/friction_table.tex}
+\end{center}
+
+\section{Вывод}
+
+Измерена угловая скорость прецессии гироскопа, его момент инерции относительно оси. 
+ВЫведена линейная зависимость угловой скорость от момент сила приложному 
+перпендикулярно оси вращения гироскопа.
 
 \end{document}
