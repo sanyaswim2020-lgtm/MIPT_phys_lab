@@ -7,7 +7,6 @@ def save_formulas(filename, equations):
 
 
 def error_formulas(name, expression, variables):
-    # Возвращаем расчётную формулу, её производные и итоговую ошибку.
     result = sp.Symbol(name)
     function = sp.Function(name)(*variables)
     equations = [sp.Eq(result, expression)]
